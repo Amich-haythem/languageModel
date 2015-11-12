@@ -13,7 +13,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
-import static java.util.Objects.hash;
 import java.util.Scanner;
 
 /**
@@ -118,5 +117,7 @@ public class Corpus {
         
         return TrigramsProb;  
 }
+ 
+ // modification from netbeans #1
  
 }
